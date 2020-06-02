@@ -8,9 +8,9 @@
 
 如果这张线路图对你真的有帮助，请给我一个星星！谢谢！
 
-## 线路图
+## 线路图-电源类
 
-![Roadmap](nuedc-prepare-roadmap.png)
+![Roadmap](nuedc-prepare-roadmap-1.png)
 
 ## 改进
 
