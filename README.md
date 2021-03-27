@@ -16,6 +16,10 @@
 
 ![Roadmap](nuedc-prepare-roadmap-2.png)
 
+## 线路图-信号类
+
+![Roadmap](nuedc-prepare-roadmap-3.png)
+
 ## 改进
 
 如果你觉得这个线路图有改进的地方，请创建一个issues。我会一直更新这个项目，所以你应该这个项目一个星星:star:！
